@@ -6,7 +6,7 @@
 using namespace std;
 
 //BARDZO DUZA ZMIANA KODU DO GITA
-
+// :)
 SDL_Renderer* renderer;
 void Circle::Draw()
 {
